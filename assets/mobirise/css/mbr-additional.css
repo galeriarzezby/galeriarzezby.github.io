@@ -1375,7 +1375,7 @@ body {
 .cid-uqkOr7khYA {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-uqkOr7khYA .mbr-section-subtitle {
   color: #767676;
@@ -1405,6 +1405,7 @@ body {
 }
 .cid-uqkiugV41L .mbr-text {
   color: #767676;
+  text-align: center;
 }
 .cid-uqkiugV41L .card-wrapper {
   height: 100%;
@@ -1421,6 +1422,9 @@ body {
     max-width: 20%;
     padding: 15px;
   }
+}
+.cid-uqkiugV41L .card-title {
+  text-align: center;
 }
 .cid-uqeNgCF3mc {
   padding-top: 90px;
