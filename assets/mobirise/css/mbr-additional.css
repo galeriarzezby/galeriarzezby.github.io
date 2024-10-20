@@ -1488,6 +1488,9 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-uqeNgCF3mc .mbr-gallery-item > div > span {
+  text-align: center;
+}
 .cid-uqkhTU28J8 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1510,6 +1513,7 @@ body {
 }
 .cid-uqkhTU28J8 .mbr-text {
   color: #767676;
+  text-align: center;
 }
 .cid-uqkhTU28J8 .card-wrapper {
   height: 100%;
@@ -1526,6 +1530,9 @@ body {
     max-width: 20%;
     padding: 15px;
   }
+}
+.cid-uqkhTU28J8 .card-title {
+  text-align: center;
 }
 .cid-uqkgjufU9i {
   padding-top: 30px;
